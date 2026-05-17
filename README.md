@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://phioranex.com/assets/phioranex-icon.svg" width="72" height="90" alt="Phioranex" />
+<img src="https://avatars.githubusercontent.com/u/226970329?v=4" width="72" height="90" alt="Phioranex" />
 
 # Phioranex
 
